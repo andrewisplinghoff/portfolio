@@ -382,6 +382,7 @@ public class Messages extends NLS
     public static String LabelAllSecurities;
     public static String LabelAssetChart;
     public static String LabelAvailableAttributes;
+    public static String LabelBenchmarks;
     public static String LabelCategoryOtherMovements;
     public static String LabelChartDetailCompactView;
     public static String LabelChartDetailDividends;
@@ -406,6 +407,7 @@ public class Messages extends NLS
     public static String LabelClientFilterNew;
     public static String LabelColorSchema;
     public static String LabelColumns;
+    public static String LabelCommon;
     public static String LabelConsumerPriceIndex;
     public static String LabelConvertBuySellIntoDeliveryTransactions;
     public static String LabelCopyToClipboard;
