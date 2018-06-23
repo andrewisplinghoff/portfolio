@@ -100,6 +100,7 @@ public class Messages extends NLS
     public static String ColumnColor;
     public static String ColumnCreditNote;
     public static String ColumnColumnLabel;
+    public static String ColumnConvertedAmount;
     public static String ColumnLatest_MenuLabel;
     public static String ColumnLatestDate_MenuLabel;
     public static String ColumnLatestHistoricalDate_MenuLabel;
@@ -412,6 +413,7 @@ public class Messages extends NLS
     public static String LabelConvertBuySellIntoDeliveryTransactions;
     public static String LabelCopyToClipboard;
     public static String LabelCurrencies;
+    public static String LabelCurrencyConverter;
     public static String LabelCurrentDate;
     public static String LabelDashboard;
     public static String LabelDataSeries;
@@ -422,6 +424,7 @@ public class Messages extends NLS
     public static String LabelError;
     public static String LabelExchange;
     public static String LabelExchangeRate;
+    public static String LabelExchangeRates;
     public static String LabelExport;
     public static String LabelFullClassification;
     public static String LabelIncludeSecuritiesInPieChart;
